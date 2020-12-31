@@ -491,7 +491,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/zietenaugust\/main.json"
+                 "value":"zietenaugust\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1893,7 +1893,7 @@
         {
          "columns":32,
          "firstgid":3551,
-         "image":"..\/chaos_zone_shared.png",
+         "image":"chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1906,7 +1906,7 @@
         {
          "columns":16,
          "firstgid":5599,
-         "image":"..\/tilesets_deviant_milkian_2.png",
+         "image":"tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1919,7 +1919,7 @@
         {
          "columns":10,
          "firstgid":5855,
-         "image":"..\/chemnitz_sign.png",
+         "image":"chemnitz_sign.png",
          "imageheight":1024,
          "imagewidth":320,
          "margin":0,
