@@ -151,7 +151,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/lokomov.json"
+                 "value":"..\/lokomov\/anniversaryadventure.json"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
