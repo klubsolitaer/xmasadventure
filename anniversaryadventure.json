@@ -143,7 +143,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/chch-workadventure-map\/tilesets_deviant_milkian_2.png",
+         "image":"tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -156,7 +156,7 @@
         {
          "columns":32,
          "firstgid":257,
-         "image":"..\/chch-workadventure-map\/chaos_zone_shared.png",
+         "image":"chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -169,7 +169,7 @@
         {
          "columns":16,
          "firstgid":2305,
-         "image":"..\/chch-workadventure-map\/rc3-mullana-floor-wall.png",
+         "image":"rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
