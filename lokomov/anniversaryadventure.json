@@ -491,7 +491,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"zietenaugust\/main.json"
+                 "value":"..\/zietenaugust\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -532,7 +532,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"Outside_B.png",
+         "image":"..\/Outside_B.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -591,7 +591,7 @@
         {
          "columns":16,
          "firstgid":257,
-         "image":"Inside_A2.png",
+         "image":"..\/Inside_A2.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -604,7 +604,7 @@
         {
          "columns":16,
          "firstgid":449,
-         "image":"Inside_A4.png",
+         "image":"..\/Inside_A4.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -663,7 +663,7 @@
         {
          "columns":16,
          "firstgid":689,
-         "image":"Inside_B.png",
+         "image":"..\/Inside_B.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -686,7 +686,7 @@
         {
          "columns":45,
          "firstgid":945,
-         "image":"open_tileset.png",
+         "image":"..\/open_tileset.png",
          "imageheight":1216,
          "imagewidth":1440,
          "margin":0,
@@ -1447,7 +1447,7 @@
         {
          "columns":16,
          "firstgid":2655,
-         "image":"interior.png",
+         "image":"..\/interior.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1722,11 +1722,11 @@
         {
          "columns":24,
          "firstgid":2911,
-         "image":"347-3472726_rpg-maker-2003-resource-s-for-windows-rpg.png",
+         "image":"..\/347-3472726_rpg-maker-2003-resource-s-for-windows-rpg.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
-         "name":"347-3472726_rpg-maker-2003-resource-s-for-windows-rpg",
+         "name":"windows-rpg",
          "spacing":0,
          "tilecount":576,
          "tileheight":32,
@@ -1880,7 +1880,7 @@
         {
          "columns":8,
          "firstgid":3487,
-         "image":"floortileset.png",
+         "image":"..\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1893,7 +1893,7 @@
         {
          "columns":32,
          "firstgid":3551,
-         "image":"chaos_zone_shared.png",
+         "image":"..\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1906,7 +1906,7 @@
         {
          "columns":16,
          "firstgid":5599,
-         "image":"tilesets_deviant_milkian_2.png",
+         "image":"..\/tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1919,7 +1919,7 @@
         {
          "columns":10,
          "firstgid":5855,
-         "image":"chemnitz_sign.png",
+         "image":"..\/chemnitz_sign.png",
          "imageheight":1024,
          "imagewidth":320,
          "margin":0,
